@@ -7,6 +7,8 @@ In this project, I built a movie recommendation engine with alternative least sq
   
   
 ![learning rate](https://github.com/XinkaiWang515/Movie_Recommendation_Spark/blob/master/learning_curve.png)
+
+<img src="https://github.com/XinkaiWang515/Movie_Recommendation_Spark/blob/master/learning_curve.png" alt="learning rate" width=300 height=300>
   
   
 
