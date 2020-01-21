@@ -1,6 +1,6 @@
 # Movie_Recommendation_Spark
 
-In this project, I built a movie recommendation engine with alternative least square (AlS) model with Spark Python and SQL. In the Netflix movie rating data, there are more than 280K users give around 27.7M rating to 50K movies. All the work is in the notebook.  
+In this project, I built a movie recommendation engine with alternative least square (AlS) model with Spark Python and SQL. In the Netflix movie rating data, there are more than 280K users give around 27.7M rating to 50K movies. All the work is in the notebook [movie-recommender-with-ES](https://github.com/XinkaiWang515/Movie_Recommendation_Spark/blob/master/movie-recommender-with-ES.ipynb).
   
   
 ## Here are some pictures used for analysis:
